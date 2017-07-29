@@ -17,5 +17,8 @@ Run `image_processing.py` with the following parameters
 ### example
 `python3 image_processing.py --i img --o output_path --s True --r 128x128 --p n`
 
+### input image
 !['input_image'](/img/image001.png)
+
+### output image (padded & resize to 128x128)
 !['output_image'](/sample_output_path/n_image001.png)
